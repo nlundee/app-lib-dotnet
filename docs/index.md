@@ -8,3 +8,5 @@ Dette prosjektet inneholder .NET-biblioteker som brukes av apper i Altinn 3. Dok
 - [API-biblioteket](api/index.md)
 - [Funksjoner](features/useractions.md)
 - [Analyzere](analyzers/index.md)
+- [Grensesnittoversikt](interfaces.md)
+- [Arkitekturoversikt](overview.md)
