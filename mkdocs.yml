@@ -1,0 +1,17 @@
+site_name: Altinn.App Dokumentasjon
+docs_dir: docs
+nav:
+  - Hjem: index.md
+  - Kjernebiblioteket:
+    - Oversikt: core/index.md
+    - Konfigurasjon: core/configuration.md
+    - Autentisering: core/authentication.md
+    - Eksterne API: core/externalapi.md
+  - API-biblioteket:
+    - Oversikt: api/index.md
+    - Autentisering: api/authentication.md
+  - Funksjoner:
+    - Brukerhandlinger: features/useractions.md
+  - Analyzere:
+    - Oversikt: analyzers/index.md
+

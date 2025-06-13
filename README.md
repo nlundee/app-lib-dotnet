@@ -21,6 +21,7 @@ See [/CONTRIBUTING.md](/CONTRIBUTING.md).
 
 Documentation on how to develop Altinn apps can be found [here](https://docs.altinn.studio/).
 
+Project documentation is available in the [docs](docs/index.md) folder.
 ## Architecture
 
 This template is built using .NET
